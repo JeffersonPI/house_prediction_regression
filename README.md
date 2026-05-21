@@ -68,7 +68,6 @@ Final selected model:
 ├── notebook.ipynb
 ├── dataset.csv
 ├── xgboost_house_price_model.pkl
-├── random_forest_house_price_model.pkl
 ├── Link source
 └── README.md
 ```
